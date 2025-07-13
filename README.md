@@ -14,3 +14,6 @@ Remember these are for beginner entry of ML for ANN model and the algorithm of P
 The purpose of these is to make data for difference/multi classification in the output and what to expect to optimize the model and algorithm with functions such as Leaky-relu,relu, sigmoid, bias, and softmax.
 
 sincely dani
+
+For more info i refference it on this website
+https://www.pinecone.io/learn/softmax-activation/
